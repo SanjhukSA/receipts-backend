@@ -20,6 +20,9 @@ env/
 *.db
 *.sqlite3
 
+# Uploaded receipt images
+uploads/
+
 # OS
 .DS_Store
 Thumbs.db
