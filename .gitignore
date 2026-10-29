@@ -33,3 +33,15 @@ Thumbs.db
 
 # uv
 uv.lock
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+**/dist/
+
+# Local environment secrets
+.env.*
+!.env.example
